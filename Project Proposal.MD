@@ -1,4 +1,4 @@
-#Project Propsal
+# Project Propsal
 
 We are going to work with the Credit Card Fraud Detection dataset from Kaggle. This dataset contains 284,807 credit card transactions made in September 2013 by credit cardholders. Of the 284,807 transactions, 492 (0.172%) are fraudulent. The dataset consists of 31 columns of numerical data. Three of the columns are time (number of seconds between the first transaction in the dataset and the current transaction), amount of transaction, and class (1 = fraudulent; 0 = not fraudulent). The remaining columns are designated as V1, V2, etc. The variables in these columns were obtained using Principal Component Analysis (PCA) to transform data about each transaction. We do not know what the original data features are because that information is confidential.
 
